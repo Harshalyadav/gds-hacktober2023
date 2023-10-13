@@ -18,7 +18,12 @@
         "github": "Bewin007",
         "linkedin": "bewin-felix",
         "description": "Web Developer"
-    }
+    },
+    {
+        "name" : "Harshal Yadav",
+        "github" : "Harshalyadav",
+        "description": "Full Stack Developer and Desktop App Developer"
+     }
 
 ]
 
